@@ -1,3 +1,21 @@
+
+
+This project is designed for the sales department of a large company to provide a clear and comprehensive view of past and current sales performance
+
+Tasks Completed:
+  ->  Data modelling: Designed and created the database using star schema
+  ->  Data Cleansing: Processed and refined raw sales data to ensure accuracy and consistency.
+  ->  Data Transformation: Converted and structured data for better usability and analysis.
+  ->  Data Analysis: Conducted in-depth analysis to uncover insights, patterns, and sales trends.
+
+Technologies Used:
+
+ ->   SQL: For data extraction, transformation, and management.
+ ->   Power BI: For interactive data visualization and reporting.
+ ->   AIMS Grid: For structured data organization and analysis.
+
+
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
